@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/webdota/static/css/main.72d079cc.css",
+    "main.js": "/webdota/static/js/main.42e325ef.js",
+    "static/media/main-background.jpg": "/webdota/static/media/main-background.5a89018fe7909af03260.jpg",
+    "index.html": "/webdota/index.html",
+    "main.72d079cc.css.map": "/webdota/static/css/main.72d079cc.css.map",
+    "main.42e325ef.js.map": "/webdota/static/js/main.42e325ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d079cc.css",
+    "static/js/main.42e325ef.js"
+  ]
+}
