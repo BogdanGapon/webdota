@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[641],{641:function(n,u,a){a.r(u),a.d(u,{default:function(){return t}});var r="Main_background_wrapper__ympP0",e=a(184),p=function(){return(0,e.jsx)("main",{className:r})},t=function(){return(0,e.jsx)(p,{})}}}]);
+//# sourceMappingURL=641.8de9b9c2.chunk.js.map
