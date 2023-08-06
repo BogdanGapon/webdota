@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/webdota/static/css/main.c80e157b.css",
-    "main.js": "/webdota/static/js/main.bced5c35.js",
+    "main.css": "/webdota/static/css/main.95a517fa.css",
+    "main.js": "/webdota/static/js/main.e2311083.js",
     "static/css/641.0127f5bf.chunk.css": "/webdota/static/css/641.0127f5bf.chunk.css",
     "static/js/641.8de9b9c2.chunk.js": "/webdota/static/js/641.8de9b9c2.chunk.js",
     "static/media/dotawallpapers.com-dota-2-riverside-digital-art-3172x1321.jpg": "/webdota/static/media/dotawallpapers.com-dota-2-riverside-digital-art-3172x1321.9edc441b8dc3e96580c6.jpg",
     "index.html": "/webdota/index.html",
-    "main.c80e157b.css.map": "/webdota/static/css/main.c80e157b.css.map",
-    "main.bced5c35.js.map": "/webdota/static/js/main.bced5c35.js.map",
+    "main.95a517fa.css.map": "/webdota/static/css/main.95a517fa.css.map",
+    "main.e2311083.js.map": "/webdota/static/js/main.e2311083.js.map",
     "641.0127f5bf.chunk.css.map": "/webdota/static/css/641.0127f5bf.chunk.css.map",
     "641.8de9b9c2.chunk.js.map": "/webdota/static/js/641.8de9b9c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c80e157b.css",
-    "static/js/main.bced5c35.js"
+    "static/css/main.95a517fa.css",
+    "static/js/main.e2311083.js"
   ]
 }
