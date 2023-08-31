@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/webdota/static/css/main.95a517fa.css",
-    "main.js": "/webdota/static/js/main.e2311083.js",
-    "static/css/641.0127f5bf.chunk.css": "/webdota/static/css/641.0127f5bf.chunk.css",
-    "static/js/641.8de9b9c2.chunk.js": "/webdota/static/js/641.8de9b9c2.chunk.js",
-    "static/media/dotawallpapers.com-dota-2-riverside-digital-art-3172x1321.jpg": "/webdota/static/media/dotawallpapers.com-dota-2-riverside-digital-art-3172x1321.9edc441b8dc3e96580c6.jpg",
+    "main.css": "/webdota/static/css/main.5b80325a.css",
+    "main.js": "/webdota/static/js/main.27e3737a.js",
+    "static/css/299.ce01a66e.chunk.css": "/webdota/static/css/299.ce01a66e.chunk.css",
+    "static/js/299.e15cbd59.chunk.js": "/webdota/static/js/299.e15cbd59.chunk.js",
+    "static/css/236.72800868.chunk.css": "/webdota/static/css/236.72800868.chunk.css",
+    "static/js/236.fa7bcff7.chunk.js": "/webdota/static/js/236.fa7bcff7.chunk.js",
     "index.html": "/webdota/index.html",
-    "main.95a517fa.css.map": "/webdota/static/css/main.95a517fa.css.map",
-    "main.e2311083.js.map": "/webdota/static/js/main.e2311083.js.map",
-    "641.0127f5bf.chunk.css.map": "/webdota/static/css/641.0127f5bf.chunk.css.map",
-    "641.8de9b9c2.chunk.js.map": "/webdota/static/js/641.8de9b9c2.chunk.js.map"
+    "main.5b80325a.css.map": "/webdota/static/css/main.5b80325a.css.map",
+    "main.27e3737a.js.map": "/webdota/static/js/main.27e3737a.js.map",
+    "299.ce01a66e.chunk.css.map": "/webdota/static/css/299.ce01a66e.chunk.css.map",
+    "299.e15cbd59.chunk.js.map": "/webdota/static/js/299.e15cbd59.chunk.js.map",
+    "236.72800868.chunk.css.map": "/webdota/static/css/236.72800868.chunk.css.map",
+    "236.fa7bcff7.chunk.js.map": "/webdota/static/js/236.fa7bcff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95a517fa.css",
-    "static/js/main.e2311083.js"
+    "static/css/main.5b80325a.css",
+    "static/js/main.27e3737a.js"
   ]
 }
